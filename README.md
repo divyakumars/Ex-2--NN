@@ -1,7 +1,7 @@
 <H3>Name: DIVYA K </H3>
 <H3>Register no: 212222230035</H3>
 
-## date: 14.03.2025
+## Date: 14.03.2025
 
 
 # Ex 02 - Implementation of Perceptron for Binary Classification
